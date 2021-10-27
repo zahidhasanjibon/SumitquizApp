@@ -1,0 +1,11 @@
+.quizContainer {
+  padding: 2rem 4rem;
+}
+.quizContainer p {
+  font-size: 3rem;
+  font-weight: 500;
+}
+.quizContainer h4 {
+  font-size: 1.3rem;
+  padding: 0px;
+}

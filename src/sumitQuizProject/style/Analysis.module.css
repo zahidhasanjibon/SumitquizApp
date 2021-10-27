@@ -1,0 +1,14 @@
+.analysis {
+  margin: 2rem auto;
+}
+.analysis h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+.analysis h4 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 0;
+  margin: 12px;
+}
